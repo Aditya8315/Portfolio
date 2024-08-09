@@ -12,6 +12,12 @@ const Projects = () => {
       </h1>
       
       <div className="h-full w-full flex flex-col  md:flex-row gap-10 px-10">
+          <ProjectCard
+          src="/urlShortener.png"
+          title="URL Shortener"
+          description="URL Shortener with Location & Device Clicks Statistics"
+          url="https://github.com/Aditya8315/url-shortener.git"
+        />
         <ProjectCard
           src="/student.png"
           title="Student Master Database"
@@ -24,12 +30,7 @@ const Projects = () => {
           description="Personal project to understand all functionalities and aspects related to an e-commerce website."
           url="https://github.com/Aditya8315/fashion.com"
         />
-         <ProjectCard
-          src="/APPetite.png"
-          title="APPetite"
-          description="Food Delivery App developed using React Native & Sanity.io"
-          url="https://github.com/Aditya8315/APPetite"
-        />
+       
         </div>
       </div>
   );
