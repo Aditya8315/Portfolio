@@ -18,6 +18,12 @@ const Projects = () => {
           description="URL Shortener with Location & Device Clicks Statistics"
           url="https://github.com/Aditya8315/url-shortener.git"
         />
+          <ProjectCard
+          src="/github.png"
+          title="Github Public Repo Listing"
+          description="Lists All Public Repository of any Github Username"
+          url="https://github-public-repo-lister.vercel.app/"
+        />
         <ProjectCard
           src="/student.png"
           title="Student Master Database"
