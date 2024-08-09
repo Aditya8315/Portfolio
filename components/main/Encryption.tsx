@@ -27,14 +27,14 @@ const Encryption = () => {
     >
       <div className="h-full w-full flex flex-col md:flex-row gap-10 px-10 py-20">
         <Card
-          src="/escafate.jpeg"
-          title="Web developer Intern @ ESCAFATE"
-          description="April-June 2023 | Worked on a Learning Management System"
+          src="/fitpass.png"
+          title="Software Developer Intern @ FITPASS"
+          description="February 2024 - Present"
         />
         <Card
           src="/iiitv.png"
           title="B.Tech CSE IIIT Vadodara"
-          description="2020-2024 | Fourth Year Student  |  CPI : 8.32 "
+          description="2020-2024  |  CPI : 8.25 "
         />
       </div>
     </div>
